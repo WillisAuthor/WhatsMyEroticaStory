@@ -38,27 +38,32 @@ body02 {
 header, article {
 	font-weight: 800;
 	color: #000;
+	text-align: Left;
 }
 
 header {
 	margin-top: 70px;
+	text-align: Left;
 }
 
 header h1 {
 	font-size: 60px;
 	line-height: 60px;
 	display: none;
+	text-align: Left;
 }
 
 #output {
 	font-size: 48px;
 	line-height: 48px;
 	margin: 60px 0;
+	text-align: Left;
 }
 #output2 {
 	font-size: 30px;
 	line-height: 30px;
 	margin: 60px 0;
+	text-align: Center;
 }
 
 #output.animate {
