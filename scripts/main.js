@@ -20,7 +20,7 @@ $(function() {
                 "I saw your mom last night and she caught me...",
                 "This happened, aske your mom, she was there when...",
             ],
-            response: [
+            responses: [
                 "I need a cold shower now.",
                 "Get your mind out of the gutter!",
                 "Pardon me, I've got a hot flash coming on...",
